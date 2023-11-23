@@ -1,0 +1,10 @@
+@import "include/mixins";
+@import "include/libs";
+@import "include/var";
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+@import "include/media";
